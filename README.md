@@ -1,7 +1,7 @@
-## Hi there, I'm Myrella! 
+<h1>Hi there, I'm Myrella! </h1> 
 
-My name is Myrella, I live in Paulista, Pernambuco. I'm a agronomist engineer and Data Science Studant from Uninter.
-My main hard skills at the moment are Power Bi, SQL, Excel and a little bit of Python!
+<p>My name is Myrella, I live in Recife, Pernambuco. I'm a agronomist engineer and Data Science Studant from Uninter.
+My main hard skills at the moment are Power Bi, SQL, Excel and a little bit of Python!</p>
 
 ## My Stacks
 <div align="center">
