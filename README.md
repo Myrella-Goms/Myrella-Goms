@@ -1,8 +1,7 @@
 <div align="center">
-  <h1>Hi, welcome to my Github!</h1>
-</div>
-  
+  <h1>Hi, welcome to my Github!</h1> 
   <h3>💻 I'm a fullstack Developer</h3>
+</div>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/myrellaggomes/" target="_blank">
@@ -12,7 +11,8 @@
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
   </p>
-  
+
+<div align="center">
   <p>
     <strong>.NET and React Developer, focus on: </strong><br/>
 <p></p>
@@ -38,7 +38,8 @@
   <h2>🌐 Languages</h2>
 </br>
   <p>
-    <strong>English:</strong> Intermediate (B1) • 
+    <strong>Portuguese-BR:</strong> Native
+    <strong>English:</strong> Intermediate (B1)  
   </p>
 </div>
 </br>
