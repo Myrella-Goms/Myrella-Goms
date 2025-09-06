@@ -15,15 +15,6 @@
 </div>
 
 <div align="center">
-  <h2>.NET and React Developer, focus on:</h2>
-    <ul>
-       <li>RESTful APIs</li>
-       <li>SOLID principles</li>
-       <li>Scalable and high-performance systems</li>
-  </ul>
-</div>
-
-<div align="center">
   <h2>🛠️ Tech Stack: </h2>
   <h3>Backend, Frontend & Frameworks</h3>
   <p>
@@ -33,6 +24,11 @@
   <img alt="Tailwind" height="30" width="40" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   <img alt="Git" height="30" width="40" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   </p>
+  <ul>
+       <li>RESTful APIs</li>
+       <li>SOLID principles</li>
+       <li>Scalable and high-performance systems</li>
+  </ul>
  </div> 
 
 <div align="center">
