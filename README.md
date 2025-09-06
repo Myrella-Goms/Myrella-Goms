@@ -24,11 +24,9 @@
   <img alt="Tailwind" height="30" width="40" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   <img alt="Git" height="30" width="40" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   </p>
-  <ul>
-       <li>RESTful APIs</li>
-       <li>SOLID principles</li>
-       <li>Scalable and high-performance systems</li>
-  </ul>
+      <p>RESTful APIs</p>
+      <p>SOLID principles</p>
+      <p>Scalable and high-performance systems</p>
  </div> 
 
 <div align="center">
