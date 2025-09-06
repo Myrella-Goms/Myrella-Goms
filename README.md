@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-  <h2>.NET and React Developer, focus on:h2>
+  <h2>.NET and React Developer, focus on:</h2>
     <ul>
        <li>RESTful APIs</li>
        <li>SOLID principles</li>
